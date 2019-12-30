@@ -4,7 +4,7 @@
 
 - Git
 - Yarn
-- ZSH & Oh My ZSH (with: auto sugesstion & syntax highlighting)
+- ZSH & Oh My ZSH (with: auto suggestions & syntax highlighting)
 - NVM
 
 ## For Ubuntu
